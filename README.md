@@ -37,5 +37,6 @@
 ![Logo J-Platform](https://img.shields.io/badge/Logo%20J--Platform-FF7A00?style=flat)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
