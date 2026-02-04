@@ -38,10 +38,4 @@
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-
 ---
-
-## 📫 İletişim
-
-- LinkedIn: https://www.linkedin.com/in/yahyaberkaykesici/
-- E-posta: bekkokesici@gmail.com
