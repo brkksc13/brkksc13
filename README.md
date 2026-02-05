@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Merhaba, ben Berkay</h1>
-  <p><strong>ERP & Database Specialist | SQL & Data Integration Expert | Automation & Backend Developer</strong></p>
+  <p><strong>ERP & Database Specialist | SQL & Data Integration Expert | Automation & Integration Developer</strong></p>
   <p>
     ERP sistemleri, veritabanı yönetimi ve iş süreçlerini otomasyonla optimize etme konularında derin teknik bilgi ve sahada edinilmiş deneyime sahibim.
     Kurumsal operasyonları daha verimli, sürdürülebilir ve ölçeklenebilir hale getirmek için analiz, geliştirme ve entegrasyon odaklı çözümler üretiyorum.
