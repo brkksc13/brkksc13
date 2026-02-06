@@ -7,7 +7,7 @@
   </p>
   <p>
     <a href="https://www.linkedin.com/in/yahyaberkaykesici/">LinkedIn</a> ·
-    <a href="mailto:bekkokesici@gmail.com">bekkokesici@gmail.com</a>
+    <a href="mailto:bekkokesici@gmail.com">yahyaberkay.kesici@outlook.com</a>
   </p>
 </div>
 
